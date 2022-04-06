@@ -1,6 +1,6 @@
 {
     "meta": {
-        "name": "{{cookiecutter.project_name}}",
+        "name": "{{cookiecutter.project_directory_name}}",
         "displayName": "{{cookiecutter.app_label}}",
         "version": "{{cookiecutter.version}}",
         "restRoot": "{{cookiecutter.project_directory_name_with_underscore_captital_ta}}",
