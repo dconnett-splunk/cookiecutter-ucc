@@ -5,7 +5,7 @@
     "app_directory_name": "App Folder Name (App ID)",
     "app_label": "Human-friendly App Label",
     "app_license": [
-        "Apache Software License 2.0",
+        "Splunk General Terms",
         "Splunk Pre-Release License"
     ],
     "version": "0.1.0"
