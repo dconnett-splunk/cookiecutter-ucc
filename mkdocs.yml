@@ -1,0 +1,9 @@
+site_name: cookiecutter-ucc
+theme:
+  name: material
+  icon:
+    logo: material/code-braces 
+  palette:
+    primary: teal
+    scheme: slate
+

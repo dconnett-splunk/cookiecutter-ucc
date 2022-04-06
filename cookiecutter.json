@@ -1,0 +1,12 @@
+{
+    "project_directory_name": "Name of the project",
+    "project_description": "Description of the project",
+    "app_author_name": "Name of the Author: your name<youremail>",
+    "app_directory_name": "App Folder Name (App ID)",
+    "app_label": "Human-friendly App Label",
+    "app_license": [
+        "Apache Software License 2.0",
+        "Splunk Pre-Release License"
+    ],
+    "version": "0.1.0"
+}
