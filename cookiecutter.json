@@ -1,9 +1,20 @@
 {
-    "project_directory_name": "Name of the project",
-    "project_description": "Description of the project",
-    "app_author_name": "Name of the Author: your name<youremail>",
-    "app_directory_name": "App Folder Name (App ID)",
-    "app_label": "Human-friendly App Label",
+    "project_directory_name": "TA-test-project-for-splunk",
+    "project_directory_name_with_underscore": "ta_test_project_for_splunk",
+    "project_directory_name_with_underscore_captital_ta": "TA_test_project_for_splunk",
+    "project_directory_name_collapsed": "tatestprojectforsplunk",
+    "project_description": "Test description",
+    
+    "project_input_name": "test_input",
+    "project_input_label": "Test Input",
+    "project_input_description": "Test description",
+    "project_input_sourcetype": "test:sourcetype",
+    "project_input_category": "Test",
+    
+    "app_author_name": "David Connett",
+    "app_author_email": "dconnett@splunk.com",
+    "app_directory_name": "test",
+    "app_label": "Test App For Splunk",
     "app_license": [
         "Splunk General Terms",
         "Splunk Pre-Release License"

@@ -1,4 +1,4 @@
-[helpshift_issues://<name>]
+[{{cookiecutter.project_input_name}}://<name>]
 start_date = Date you want to start collecting events from. Leave blank to start collection of all events.
 account =
 
